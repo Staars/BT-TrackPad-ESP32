@@ -14,7 +14,4 @@ I hope to be able to add more functionality in the future.
   
 Current hardware prototype:
 
-![alt text](https://github.com/Staars/BT-TrackPad-ESP32/HackPad.jpeg)
-
-
-
+<img src="https://github.com/Staars/BT-TrackPad-ESP32/blob/master/HackPad.jpeg" align="center" />
