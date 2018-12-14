@@ -15,3 +15,17 @@ I hope to be able to add more functionality in the future.
 Current hardware prototype:
 
 <img src="https://github.com/Staars/BT-TrackPad-ESP32/blob/master/HackPad.jpeg" align="center" />
+  
+  
+  
+# current status:
+  
+  - simple HID-Device that reports single point events 
+  - short tap for left mouse button
+  
+  
+# planned features:
+  
+  - adding multi-touch (the sensor can track 5 points/fingers)
+  - gestures
+  
