@@ -20,7 +20,7 @@ Current hardware prototype:
   
 # current status:
   
-  - simple HID-Device that reports single point events 
+  - simple HID-Trackpad that reports single point events 
   - short tap for left mouse button
   
   
@@ -28,4 +28,5 @@ Current hardware prototype:
   
   - adding multi-touch (the sensor can track 5 points/fingers)
   - gestures
+  - maybe adding a hardware button
   
